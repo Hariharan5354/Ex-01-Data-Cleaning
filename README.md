@@ -19,11 +19,11 @@ STEP 4
 Save the Clean data to the file
 
 ## CODE
-'''
+
 Program developed by: HARIHARAN S
 
 Register number: 212221220016
-'''
+```
 import pandas as pd
 
 import numpy as np
@@ -68,6 +68,7 @@ df1.isnull().sum()
 
 #Checking info of the dataset to check all the columns have entries
 df1.info()
+```
 ## OUPUT
 ## DATASET
 
